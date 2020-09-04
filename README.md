@@ -86,3 +86,4 @@ License
 -------
 
 mcstatus is licensed under Apache 2.0.
+[![Run on Repl.it](https://repl.it/badge/github/Dinnerbone/mcstatus)](https://repl.it/github/Dinnerbone/mcstatus)
